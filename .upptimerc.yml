@@ -1,4 +1,4 @@
-# Change these first
+...........# Change these first
 owner: GamePlusX # Your GitHub organization or username, where this repository lives
 repo: WebStatus # The name of this repository
 
@@ -9,6 +9,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
