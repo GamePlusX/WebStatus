@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/gam1.cf",
     "slug": "game-plus",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 493,
-    "timeWeek": 981,
-    "timeMonth": 563,
+    "timeDay": 569,
+    "timeWeek": 462,
+    "timeMonth": 568,
     "timeYear": 631,
-    "dailyMinutesDown": {
-      "2021-09-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 181,
-    "timeWeek": 144,
-    "timeMonth": 132,
+    "timeDay": 52,
+    "timeWeek": 121,
+    "timeMonth": 131,
     "timeYear": 95,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 242,
-    "timeWeek": 225,
-    "timeMonth": 256,
-    "timeYear": 202,
+    "time": 203,
+    "timeDay": 251,
+    "timeWeek": 229,
+    "timeMonth": 260,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-01": 1076,
+      "2021-09-02": 15,
+      "2021-09-01": 1440,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
       "2021-08-29": 1440,
