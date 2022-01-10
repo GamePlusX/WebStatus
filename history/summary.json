@@ -4,9 +4,9 @@
     "url": "https://gam1.cf",
     "icon": "https://favicons.githubusercontent.com/gam1.cf",
     "slug": "game-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 2024,
     "timeYear": 980,
     "dailyMinutesDown": {
+      "2022-01-10": 0,
       "2021-12-23": 90,
       "2021-12-13": 27,
       "2021-11-13": 96,
@@ -76,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-10": 20,
+      "2022-01-10": 466,
       "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
