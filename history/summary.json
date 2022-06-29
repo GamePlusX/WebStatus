@@ -6,14 +6,14 @@
     "slug": "game-plus",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.82%",
-    "time": 883,
-    "timeDay": 784,
-    "timeWeek": 1529,
-    "timeMonth": 820,
+    "time": 882,
+    "timeDay": 547,
+    "timeWeek": 1423,
+    "timeMonth": 816,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2022-06-27": 24,
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 77,
-    "timeWeek": 73,
+    "timeDay": 57,
+    "timeWeek": 72,
     "timeMonth": 70,
     "timeYear": 92,
     "dailyMinutesDown": {}
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 220,
-    "timeWeek": 197,
-    "timeMonth": 204,
+    "timeDay": 202,
+    "timeWeek": 193,
+    "timeMonth": 202,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -92,7 +92,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-28": 34,
+      "2022-06-29": 32,
+      "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
@@ -455,8 +456,7 @@
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
-      "2021-06-30": 1440,
-      "2021-06-29": 1440
+      "2021-06-30": 1440
     }
   }
 ]
