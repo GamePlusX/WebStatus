@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/gam1.cf",
     "slug": "game-plus",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 847,
-    "timeDay": 269,
-    "timeWeek": 1804,
-    "timeMonth": 782,
-    "timeYear": 904,
+    "timeDay": 523,
+    "timeWeek": 1806,
+    "timeMonth": 785,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2022-07-19": 50,
       "2022-06-30": 83,
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 87,
-    "timeWeek": 110,
+    "timeDay": 72,
+    "timeWeek": 91,
     "timeMonth": 83,
     "timeYear": 90,
     "dailyMinutesDown": {}
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 242,
-    "timeWeek": 248,
-    "timeMonth": 249,
+    "timeDay": 254,
+    "timeWeek": 264,
+    "timeMonth": 237,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-27": 32,
+      "2022-08-28": 38,
+      "2022-08-27": 1440,
       "2022-08-26": 1440,
       "2022-08-25": 1440,
       "2022-08-24": 1440,
@@ -457,8 +458,7 @@
       "2021-09-01": 1440,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
-      "2021-08-29": 1440,
-      "2021-08-28": 1440
+      "2021-08-29": 1440
     }
   }
 ]
