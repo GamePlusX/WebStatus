@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/gam1.cf",
     "slug": "game-plus",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.80%",
-    "time": 836,
-    "timeDay": 594,
-    "timeWeek": 492,
-    "timeMonth": 713,
+    "uptime": "99.06%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "98.77%",
+    "time": 835,
+    "timeDay": 323,
+    "timeWeek": 435,
+    "timeMonth": 716,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2022-09-12": 0,
+      "2022-09-13": 38,
+      "2022-09-12": 134,
       "2022-07-19": 50,
       "2022-06-30": 83,
       "2022-06-27": 24,
@@ -54,7 +55,7 @@
     "uptimeYear": "100.00%",
     "time": 92,
     "timeDay": 71,
-    "timeWeek": 141,
+    "timeWeek": 143,
     "timeMonth": 107,
     "timeYear": 89,
     "dailyMinutesDown": {}
@@ -70,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 273,
-    "timeWeek": 178,
-    "timeMonth": 206,
-    "timeYear": 226,
+    "time": 221,
+    "timeDay": 466,
+    "timeWeek": 219,
+    "timeMonth": 217,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -94,7 +95,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-12": 1307,
+      "2022-09-13": 38,
+      "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
@@ -457,8 +459,7 @@
       "2021-09-17": 1440,
       "2021-09-16": 1440,
       "2021-09-15": 1440,
-      "2021-09-14": 1440,
-      "2021-09-13": 1440
+      "2021-09-14": 1440
     }
   }
 ]
