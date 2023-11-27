@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gam1.cf.ico",
     "slug": "game-plus",
     "status": "down",
-    "uptime": "75.39%",
+    "uptime": "75.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.19%",
-    "time": 751,
-    "timeDay": 339,
-    "timeWeek": 950,
-    "timeMonth": 510,
-    "timeYear": 718,
+    "uptimeYear": "38.92%",
+    "time": 752,
+    "timeDay": 531,
+    "timeWeek": 976,
+    "timeMonth": 518,
+    "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-11-26": 31,
+      "2023-11-27": 29,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -257,9 +258,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 76,
-    "timeWeek": 70,
-    "timeMonth": 95,
+    "timeDay": 84,
+    "timeWeek": 72,
+    "timeMonth": 94,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2023-10-30": 23,
@@ -279,10 +280,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 278,
-    "timeWeek": 255,
-    "timeMonth": 207,
+    "time": 213,
+    "timeDay": 177,
+    "timeWeek": 254,
+    "timeMonth": 212,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2023-01-17": 25
@@ -305,7 +306,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-26": 31,
+      "2023-11-27": 29,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -668,8 +670,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   }
 ]
