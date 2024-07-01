@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/gam1.cf.ico",
     "slug": "game-plus",
     "status": "down",
-    "uptime": "62.70%",
+    "uptime": "62.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "4.97%",
     "time": 686,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2024-06-30": 35,
+      "2024-07-01": 37,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -361,8 +362,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -377,10 +377,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 111,
-    "timeDay": 70,
-    "timeWeek": 91,
-    "timeMonth": 91,
-    "timeYear": 115,
+    "timeDay": 223,
+    "timeWeek": 113,
+    "timeMonth": 96,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2024-05-01": 40,
       "2023-10-30": 23,
@@ -401,9 +401,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 158,
-    "timeWeek": 198,
-    "timeMonth": 252,
+    "timeDay": 227,
+    "timeWeek": 221,
+    "timeMonth": 257,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2024-04-20": 16
@@ -418,7 +418,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -426,7 +426,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 35,
+      "2024-07-01": 37,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -789,8 +790,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   }
 ]
